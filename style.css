@@ -29,3 +29,30 @@ nav{
 nay li{
     display: inline;
 }
+
+
+
+
+
+{
+}
+
+nav a {
+     text-transform: uppercase;
+     color: black;
+     font-size: 30px;
+     font-weight: bold;
+     text-decoration: none;
+}
+
+#banner{
+    width: 220px;
+    height: 220px;
+}
+
+#utensilios{
+    width: 220px;
+    height: 220px;
+    float: left;
+    margin: ;
+}
