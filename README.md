@@ -1,1 +1,1 @@
-# pensameneto_computacional
+# pensamento_camputacional
